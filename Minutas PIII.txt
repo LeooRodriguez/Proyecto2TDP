@@ -1,0 +1,7 @@
+Minutas de Proyecto III TDP
+
+-En caso de que se ingrese mal el archivo de texto, es decir que no cumpla con el tamaño de 9 x 9 ó que tenga algún simbolo que no sea un
+número del 1 al 9 o un espacio en blanco NO se generará un cartel de aviso al cliente, pero si se generará un mensaje por consola en la IDE para que el programador evalúe cual fue el error.
+
+-En el caso que el programa NO detecte el archivo de texto es decir que tenga el nombre incorrecto ó directamente no se encuentre al lado del ejecutable NO se generará un cartel de aviso al cliente, pero si se generará un mensaje por consola en la IDE para que el programador evalúe cual fue el error.
+
